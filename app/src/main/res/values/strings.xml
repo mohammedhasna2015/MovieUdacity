@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoviesUdacity</string>
+    <string name="title_popular_movies">Popular</string>
+    <string name="title_top_rated">Top Rated</string>
+    <string name="title_favorites">Favorite</string>
+    <string name="reviews">Reviews</string>
+    <string name="trailers">Trial</string>
+</resources>
